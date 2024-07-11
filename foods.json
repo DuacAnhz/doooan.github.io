@@ -1,0 +1,77 @@
+{
+  "monan": [
+    {
+      "id": "c598",
+      "tenda": "chu bin",
+      "hinhanh": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhoanghamobile.com%2Ftin-tuc%2Fhinh-dep%2F&psig=AOvVaw2mK1ZiLzv2h3mkw0B3YpVf&ust=1720746501561000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLih56blnYcDFQAAAAAdAAAAABAE",
+      "gia": "1000000",
+      "mota": "deo ngon",
+      "thanh_phan_che_bien": "pia",
+      "danh_muc": "monchinh",
+      "soluong_monan": "1"
+    },
+    {
+      "id": "b399",
+      "tenda": "q",
+      "hinhanh": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-102-16715878746102005998080.jpg",
+      "gia": "121",
+      "mota": "n",
+      "thanh_phan_che_bien": " d",
+      "danh_muc": "monchinh",
+      "soluong_monan": "12"
+    }
+  ],
+  "nguoidat": [
+    {
+      "ten": "Nguyễn Văn A",
+      "dia_chi": "Số 123, Đường ABC, Quận XYZ, Thành phố HCM",
+      "sdt": "0987654321",
+      "datmon": "Hành",
+      "soluong_nguoidat": "123435",
+      "tong_tien": "6700000000",
+      "id": "ece2"
+    }
+  ],
+  "datmon": [
+    {
+      "id": "65ed",
+      "ten": "anh",
+      "dia_chi": "số 111",
+      "sdt": "11111111",
+      "datmon": "Bánh ép khô",
+      "tong_tien": "200000"
+    }
+  ],
+  "lienhe": [
+    {
+      "ten": "Nguyễn Văn B",
+      "email": "123",
+      "noidung": "0987654321",
+      "id": "ecce2"
+    },
+    {
+      "id": "db0d",
+      "ten": "chu ",
+      "email": "dsda@gmail.com",
+      "noidung": "sdsd"
+    },
+    {
+      "id": "1854",
+      "ten": "chu ",
+      "email": "dsda@gmail.com",
+      "noidung": "qưeretyr"
+    },
+    {
+      "id": "99d9",
+      "ten": "chu ",
+      "email": "dsda@gmail.com",
+      "noidung": "ngon"
+    },
+    {
+      "id": "42a3",
+      "ten": "chu ",
+      "email": "dsda@gmail.com",
+      "noidung": "1"
+    }
+  ]
+}
